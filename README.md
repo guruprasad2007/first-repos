@@ -1,2 +1,2 @@
-# first-repos
+# first project
 this is experimental.
